@@ -58,12 +58,12 @@ coverage/
 tmp/
 temp/
 
-# Screenshots (until generated)
-screenshots/*.png
-screenshots/*.jpg
-screenshots/*.jpeg
+# Screenshots - now included in repository for GitHub display
+# screenshots/*.png
+# screenshots/*.jpg
+# screenshots/*.jpeg
 
-# Keep HTML templates for screenshot generation
+# Keep HTML templates for screenshot generation (if any)
 !screenshots/*.html
 
 # System administration files (contains sensitive data)
