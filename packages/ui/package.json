@@ -1,0 +1,26 @@
+{
+  "name": "@linuxos-ai/ui",
+  "version": "0.1.0",
+  "description": "Enhanced interactive terminal interface for LinuxOS-AI",
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch",
+    "test": "vitest"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.0",
+    "cli-table3": "^0.6.3",
+    "ora": "^8.0.0",
+    "boxen": "^7.1.1",
+    "gradient-string": "^2.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "@types/inquirer": "^9.0.0",
+    "typescript": "^5.0.0",
+    "vitest": "^1.0.0"
+  }
+} 

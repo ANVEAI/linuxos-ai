@@ -1,0 +1,28 @@
+{
+  "name": "@linuxos-ai/mcp-installation-server",
+  "version": "0.1.0",
+  "description": "MCP server for software installation and system setup",
+  "type": "module",
+  "main": "dist/index.js",
+  "bin": {
+    "linuxos-installation-server": "dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "tsc --watch",
+    "test": "vitest"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^0.5.0",
+    "execa": "^8.0.0",
+    "which": "^4.0.0",
+    "fs-extra": "^11.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "@types/fs-extra": "^11.0.0",
+    "typescript": "^5.0.0",
+    "vitest": "^1.0.0"
+  }
+} 
