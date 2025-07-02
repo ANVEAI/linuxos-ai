@@ -18,7 +18,7 @@ An **Interactive AI System Administrator** that represents the **first milestone
 
 - [🎯 Vision: AI-Native Operating System](#-vision-ai-native-operating-system)
 - [🌟 Current Features](#-current-features-phase-1)
-- [📸 See LinuxOS-AI in Action](#-see-linuxos-ai-in-action)
+- [🎬 Watch LinuxOS-AI in Action!](#-watch-linuxos-ai-in-action)
 - [🚀 Quick Start](#-quick-start)
 - [💡 Real-World Usage Examples](#-real-world-usage-examples)
 - [🏗️ Architecture & Design](#️-architecture--design)
@@ -89,9 +89,17 @@ AI: "Implementing enterprise security hardening..."
 
 ---
 
-## 📸 **See LinuxOS-AI in Action**
+## 🎬 **Watch LinuxOS-AI in Action!**
 
 <div align="center">
+
+### 🚀 **Live Demo - See the Magic Happen!**
+![LinuxOS-AI Demo](demo.gif)
+*🤖 From natural language commands to Oracle installation in seconds!*
+
+---
+
+### 📸 **Detailed Screenshots**
 
 ![LinuxOS-AI Terminal Interface](screenshots/terminal-interface.png)
 *🤖 Natural language system administration in action*
